@@ -1,10 +1,7 @@
 const Footer = () => {
   return (
-    <div
-      className="footer footer-expand-lg px-5 py-1 text-bg-dark text-light fixed-bottom d-flex justify-content-evenly align-items-start fs-6"
-      style={{ height: "120px" }}
-    >
-      <div className="d-flex flex-column p-2 gap-0">
+    <div className="footer footer-expand-lg px-5 py-1 text-bg-dark text-light fixed-bottom d-flex justify-content-evenly align-items-start fs-6">
+      <div className="d-flex flex-column px-5 py-2 gap-0">
         <div className="fs-5 fw-semibold">MENU</div>
         <div style={{ marginTop: "-6px" }}>About us</div>
         <div style={{ marginTop: "-6px" }}>Login</div>

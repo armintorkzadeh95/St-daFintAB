@@ -2,10 +2,7 @@ import { NavLink } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <nav
-      className="navbar navbar-expand-lg bg-dark fs-4 d-flex justify-content-between px-2 fixed-top"
-      style={{ height: "100px" }}
-    >
+    <nav className="navbar navbar-expand-lg bg-dark fs-4 d-flex justify-content-between px-2 fixed-top">
       <NavLink to="/">
         <img
           src="img/logo.png"
