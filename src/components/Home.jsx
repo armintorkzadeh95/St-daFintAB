@@ -19,7 +19,7 @@ const Home = () => {
             We are happy to help you with tailor-made solutions for different
             requests!
           </p>
-          <p> support@StädaFintAB.se</p>
+          <p>support@StädaFintAB.se</p>
           <p>072-8712652</p>
         </div>
 
